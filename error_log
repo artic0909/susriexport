@@ -1,0 +1,25 @@
+[18-Apr-2024 21:43:27 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 21:44:55 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 21:51:25 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 21:51:33 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 21:51:40 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 21:54:50 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.3.33. in /home/uueziobj/public_html/sweetdevelopers.com/susri/vendor/composer/platform_check.php on line 24
+[18-Apr-2024 21:54:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.3.33. in /home/uueziobj/public_html/sweetdevelopers.com/susri/vendor/composer/platform_check.php on line 24
+[18-Apr-2024 21:55:32 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:04:14 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:11:23 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:11:30 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:44:50 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:46:09 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:46:45 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:48:13 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:48:53 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:49:03 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:50:05 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:50:13 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 22:50:32 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 23:04:24 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 23:05:08 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 23:05:35 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 23:06:33 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0
+[18-Apr-2024 23:07:40 UTC] PHP Warning:  Module "memcached" is already loaded in Unknown on line 0

@@ -1,0 +1,123 @@
+@media all and (max-width:992px) {
+.header-menu {
+	text-align: right;
+}
+.navbar-nav {
+	margin-top:40px;
+}
+.navbar-toggler-icon {
+    background: rgba(0, 0, 0, 0) url("data:image/svg+xml;charset=utf8,%3Csvg viewBox=\'0 0 30 30\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cpath stroke=\'rgba(251, 206, 112, 1)\' stroke-width=\'4\' stroke-linecap=\'round\' stroke-miterlimit=\'10\' d=\'M4 7h22M4 15h22M4 23h22\'/%3E%3C/svg%3E") repeat scroll 0 0 !important;
+}
+.navbar-nav.sm-collapsible .sub-arrow {
+    margin: -0.6em 0 !important;
+    border: none !important;
+    width: 1em !important;
+}
+.navbar-nav.sm-collapsible .has-submenu {
+    padding-right: 1.5em !important;
+}
+.navbar-light .navbar-toggler {
+    margin: 0 auto;
+    position: absolute;
+    top: 0px;
+    right: 0;
+    border: none;
+    padding: 0;
+}
+.navbar-toggler-icon {
+    width: 1em;
+    height: 1em;
+}
+#navbarNav ul li {
+    margin-left: 0px;
+    text-align: right;
+}
+.carousel-item {
+  min-height: 200px;
+  height: 20vh;
+}
+.carousel-caption {
+  bottom: 20px;
+  left: 5%;
+  right: 5%;
+  padding:10px 20px;
+}
+.carousel-caption h1 {
+  font-size: 20px;
+  line-height:20px;
+  margin-bottom:0;
+}
+.carousel-caption h3 {
+  font-size: 16px;
+  margin-bottom:0;
+}
+.carousel-caption h4 {
+	font-size: 14px;
+	margin-bottom:0;
+}
+.carousel-caption p {
+	font-size: 10px;
+	line-height:15px;
+	margin-bottom:5px;
+}
+.banner-btn {
+  padding: 6px 10px;
+  font-size: 9px;
+  letter-spacing: 1px;
+}
+#welcome-section {
+	text-align:center;
+}
+#welcome-section .sec-head-caption {
+	margin-top:20px;
+}
+.vision-ctn-box-right {
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.gal-ctn-box {
+  padding: 20px;
+}
+#innerPG-banner .banner-item img {
+  height: 150px;
+}
+#innerPG-banner {
+  margin-top: 0;
+}
+.s-pro-pic-box img {
+	width:100%;
+}
+.portfolio-menu ul li {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.portfolio-item .item a img {
+  width: 100%;
+  height: auto;
+}
+.address-box {
+	margin-top:20px;
+	text-align:left;
+}
+.right-tophead img {
+	width:30px;
+	height:30px;
+}
+.right-tophead p {
+  font-size: 9px;
+}
+.right-tophead h5 a {
+  font-size: 16px;
+  line-height:16px;
+}
+.right-tophead h5 {
+  line-height:16px;
+}
+}
+@media (min-width: 993px) and (max-width:1190px) {
+#banner-slider {
+  margin-top: 0;
+}
+
+}
